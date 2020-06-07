@@ -9,3 +9,5 @@ expo install react-navigation react-native-gesture-handler react-native-reanimat
 expo install react-navigation-drawer
 
 expo install react-navigation-tabs
+
+expo install react-navigation-stack
